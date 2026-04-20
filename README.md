@@ -10,4 +10,4 @@ DOMAIN: EMBEDDED SYSTEMS
 
 MENTOR: NEELA SANTHOSH KUMAR
 
-
+OUTPUT: <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/172cc5ef-faa5-4039-9e9e-9f0293515472" />
